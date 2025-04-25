@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="bg-white flex flex-col md:flex-row justify-between space-y-4 md:rounded-lg my-[4%] md:my-[10%] w-[60%] mx-auto shadow-2xl">
+    <div className="bg-white flex flex-col md:flex-row justify-between space-y-4 md:rounded-lg my-[4%] md:my-[10%] w-[90%] md:w-[60%] mx-auto shadow-2xl">
       <div className="flex space-y-4 flex-col px-4 py-6">
         <div className="flex flex-col space-y-2 md:flex-row md:items-center justify-between">
           <h1 className="text-gray-700 font-semibold">Mortgage Calculator</h1>
